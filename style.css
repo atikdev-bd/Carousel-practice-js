@@ -1,9 +1,20 @@
-#caruoser{
-width: 50%;
-height: 50%;
-position: fixed;
-left: 25%;
-right: 25%;
-margin-top: 20px;
+#caruoser {
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    left: 25%;
+    right: 25%;
+    margin-top: 20px;
+}
 
+.img {
+    border: 10px solid gray;
+    border-radius: 2px;
+    padding-right: 1px;
+    border-top: 0ch;
+    border-bottom: 0ch;
+}
+
+.body {
+    background-color: darkslategrey;
 }
